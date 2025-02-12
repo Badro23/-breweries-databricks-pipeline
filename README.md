@@ -1,7 +1,6 @@
-### Este repositório contém um pipeline ETL desenvolvido no Databricks, seguindo a estrutura Delta Lake com as camadas Bronze, Silver e Gold.
-
 ## Estrutura do Repositório
-databricks - Contém os notebooks do pipeline
+
+### Este repositório contém um pipeline ETL desenvolvido no Databricks, seguindo a estrutura Delta Lake com as camadas Bronze, Silver e Gold, incluindo os notebooks do pipeline.
 
 ## Tecnologias Utilizadas
 ```

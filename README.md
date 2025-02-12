@@ -1,24 +1,24 @@
-Este repositório contém um pipeline ETL desenvolvido no Databricks, seguindo a estrutura Delta Lake com as camadas Bronze, Silver e Gold.
+### Este repositório contém um pipeline ETL desenvolvido no Databricks, seguindo a estrutura Delta Lake com as camadas Bronze, Silver e Gold.
 
-Estrutura do Repositório
-databricks/pipeline/src - Contém os notebooks do pipeline
+## Estrutura do Repositório
+databricks - Contém os notebooks do pipeline
 
-Tecnologias Utilizadas
-
+## Tecnologias Utilizadas
+```
 Databricks Community Edition
 Apache Spark
 PySpark
 Matplotlib (para gráficos)
 Delta Lake
-
-Pipeline de Dados
-
+```
+## Pipeline de Dados
+```
 Bronze Layer: Ingestão de dados brutos
 Silver Layer: Limpeza e transformação inicial
 Gold Layer: Dados agregados e prontos para análise
+```
 
-
-Como Executar
+## Como Executar
 
 Clone o repositório:
 

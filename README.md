@@ -21,5 +21,6 @@ Gold Layer: Dados agregados e prontos para análise
 ## Como Executar
 
 Clone o repositório:
-
+```
 git clone https://github.com/seu-usuario/databricks-pipeline.git
+```

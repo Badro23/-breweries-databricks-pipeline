@@ -45,5 +45,3 @@ plt.tight_layout()  # Ajusta o layout para não cortar labels
 
 # Exibir o gráfico
 plt.show()
-
-
